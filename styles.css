@@ -140,17 +140,19 @@ a {
 
 .brand-text strong,
 .brand-text span {
-  font-family: "Oswald", sans-serif;
-  letter-spacing: 0.06em;
+  font-family: "Cormorant Garamond", serif;
+  letter-spacing: 0.08em;
 }
 
 .brand-text strong {
-  font-size: 1.5rem;
+  font-size: 1.95rem;
+  font-weight: 700;
 }
 
 .brand-text span {
   color: var(--gold);
-  font-size: 0.96rem;
+  font-size: 1rem;
+  font-weight: 600;
 }
 
 .nav-links {
@@ -714,7 +716,7 @@ h3 {
   }
 
   .brand-text strong {
-    font-size: 1.2rem;
+    font-size: 1.45rem;
   }
 
   .whatsapp-float {
